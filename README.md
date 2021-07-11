@@ -12,7 +12,6 @@
 4. **RumourEval**(https://alt.qcri.org/semeval2017/task8/)
 
 ## Stance Detection work
-`EMNLP19``EMNLP19` [[pdf]](https://arxiv.org/abs/1909.07405) [[code]](https://github.com/peterwestuw/BottleSum)
 |ID|Name|Description|Dataset|Paper|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[X]|-|从procon.org整理数据|[Stance Prediction for Contemporary Issues: Data and Experiments](https://aclanthology.org/2020.socialnlp-1.5.pdf)|ACL20|
