@@ -29,8 +29,7 @@
 |12|[X]|-|RumourEval,FNC-1|[Gradual Argumentation Evaluation for Stance Aggregation in Automated Fake News Detection](https://aclanthology.org/W19-4518.pdf)|ACL19|
 |13|[X]|-|数据集|[Data Set for Stance and Sentiment Analysis from User Comments on Croatian News](https://aclanthology.org/W19-3707.pdf)|ACL19|
 |14|[X]|-|Pheme 5 events dataset|[Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations](https://aclanthology.org/P19-1498.pdf)|ACL19|
-|15|[X]|-|-|[Recognising Agreement and Disagreement between Stances with Reason
-Comparing Networks](https://aclanthology.org/P19-1460.pdf)|ACL19|
+|15|[X]|-|-|[Recognising Agreement and Disagreement between Stances with ReasonComparing Networks](https://aclanthology.org/P19-1460.pdf)|ACL19|
 |16|[X]|加入用户信息|SemEval taskA，Gun（自己）|[Using Author Embeddings to Improve Tweet Stance Classification](https://aclanthology.org/W18-6124/)|EMNLP18|
 |17|[X]|-|FNC-1|[Stance Detection in Fake News: A Combined Feature Representation](https://aclanthology.org/W18-5510.pdf)|EMNLP18|
 |18|[X]|-|FNC-1|[Towards Automatic Fake News Detection: Cross-Level Stance Detection in News Articles](https://aclanthology.org/W18-5507.pdf)|EMNLP18|
