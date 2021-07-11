@@ -1,8 +1,9 @@
 # StanceDetection-Papers
 
 ## Reference
-**[summarization.bib](https://github.com/zmsjf/StanceDetection-Papers/blob/main/summrization.bib)
+**[summarization.bib]**(https://github.com/zmsjf/StanceDetection-Papers/blob/main/summrization.bib)
 
 ## Benchmark
-**SemEval-2016 Task 6: Detecting Stance in Tweets**![](https://img.shields.io/badge/-Chinese-orange) *Saif M. Mohammad,Svetlana Kiritchenko,Parinaz Sobhani,Xiaodan Zhu,Colin Cherry* [[pdf]](https://aclanthology.org/S16-1003.pdf) 
+**SemEval-2016 Task 6: Detecting Stance in Tweets** *Saif M. Mohammad,Svetlana Kiritchenko,Parinaz Sobhani,Xiaodan Zhu,Colin Cherry* [[pdf]](https://aclanthology.org/S16-1003.pdf) 
+**Overview of NLPCC Shared Task 4: Stance Detection in Chinese Microblogs**![](https://img.shields.io/badge/-Chinese-orange)（）[[pdf]]（）
 
