@@ -21,7 +21,7 @@
 |5|[X]|-|构建twitter数据集|[Will-They-Won’t-They: A Very Large Dataset for Stance Detection on Twitter](https://aclanthology.org/2020.acl-main.157.pdf)|ACL20|
 |6|[X]|-|-|[Predicting the Topical Stance and Political Leaning of Media using Tweets](https://aclanthology.org/2020.acl-main.50.pdf)|ACL20|
 |7|[SCN]|立场并不是互相独立的，需要单独学习每个立场，考虑立场之间的相关性|SemEval taskA|[Stance Detection with Stance-Wise Convolution Network](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Stance%20Detection%20with%20Stance-Wise%20Convolution%20Network.pdf)|NLPCC20|
-|8|[CKEMN]|引入ConceptNet知识，帮助丰富text和target的上下文|SemEval16 taskA|[Commonsense Knowledge Enhanced Memory Network for Stance Classification]()|IEEE20|
+|8|[CKEMN]|引入ConceptNet知识，帮助丰富text和target的上下文|SemEval16 taskA|[Commonsense Knowledge Enhanced Memory Network for Stance Classification](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Commonsense%20Knowledge%20Enhanced%20Memory%20Network%20for%20Stance%20Classification.pdf)|IEEE20|
 |8|[PNEM]|使用densely connected Bi-LSTM和 nested LSTMs architectures和注意力机制|SemEval taskA,Multi-target|[Tweet Stance Detection Using an Attention based Neural Ensemble Model](https://aclanthology.org/N19-1185.pdf)|NAACL19|
 |7|[stancy]|bert,加入cos约束|Perspectrum dataset|[STANCY: Stance Classification Based on Consistency Cues](https://aclanthology.org/D19-1675.pdf)|EMNLP19|
 |8|[MTransSAN]|多任务，Sentiment Analysis,QA,Textual Entailment,Paraphrase Detection。基本思想：在四个任务上用任务语料进行预训练，再用FNC-1语料进行fine-tuning|FNC-1|[Neural Multi-Task Learning for Stance Prediction](https://aclanthology.org/D19-6603.pdf)|EMNLP19|
