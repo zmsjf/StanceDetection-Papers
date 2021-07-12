@@ -45,7 +45,7 @@
 |24|[X]|-|-|[ConStance: Modeling Annotation Contexts to Improve Stance Classification](https://aclanthology.org/D17-1116/)|EMNLP2017|
 |26|[TAN]|在模型层面注意到target|SemEval16 taskA,NLPCC16 taskA|[Stance Classification with Target-Specific Neural Attention Networks](https://www.ijcai.org/proceedings/2017/0557.pdf)|IJCAI17|
 |25|[BiCond]| 经典 |SemEval taskB|[Stance Detection with Bidirectional Conditional Encoding](https://aclanthology.org/D16-1084/)|EMNLP2016|
-|26|[X]|-|-|[Weakly Supervised Tweet Stance Classification by Relational Bootstrapping](https://aclanthology.org/D16-1105/)|EMNLP2016|
+|26|[X]|-|SemEval taskB|[Weakly Supervised Tweet Stance Classification by Relational Bootstrapping](https://aclanthology.org/D16-1105/)|EMNLP2016|
 |27|[X]|-|-|[Modeling Stance in Student Essays](https://aclanthology.org/P16-1205.pdf)|ACL16|
 |28|[X]|-|-|[Hawkes Processes for Continuous Time Sequence Classification: an Application to Rumour Stance Classification in Twitter](https://aclanthology.org/P16-2064.pdf)|ACL16|
 |29|[STS]|不是深度学习方法，概率|SemEval taskA&B|[A Joint Sentiment-Target-Stance Model for Stance Classification in Tweets](https://aclanthology.org/C16-1250.pdf)|COLING16|
@@ -57,7 +57,8 @@
 ## Cross-Target Stance Detection
 1. **Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge** *Bowen Zhang, Min Yang, Xutao Li∗, Yunming Ye∗, Xiaofei Xu, Kuai Dai*`ACL20`[[pdf]](https://aclanthology.org/2020.acl-main.291.pdf)
 
-## Cross-Lin
+## Cross-Lingual
+1. **Contrastive Language Adaptation for Cross-Lingual Stance Detection** *Mitra Mohtarami,James Glass,Preslav Nakov*[[pdf]](https://aclanthology.org/D19-1452.pdf)
 
 ## Reference
 **[summarization.bib]**(https://github.com/zmsjf/StanceDetection-Papers/blob/main/summrization.bib)
