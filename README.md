@@ -14,7 +14,7 @@
 ## Stance Detection work
 |ID|Name|Description|Dataset|Paper|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|[X]|-|从procon.org整理数据|[Stance Prediction for Contemporary Issues: Data and Experiments](https://aclanthology.org/2020.socialnlp-1.5.pdf)|ACL20|
+|1|[X]|-|从procon.org整理数据。引入sentiment、emotion信息。bert拿到结果之后，不直接进行分类，又利用GRU和max-pool和avg-pool进行表示|[Stance Prediction for Contemporary Issues: Data and Experiments](https://aclanthology.org/2020.socialnlp-1.5.pdf)|ACL20|
 |2|[X]|-|-|[Stance Prediction and Claim Verification: An Arabic Perspective](https://aclanthology.org/2020.fever-1.2.pdf)|ACL20|
 |3|[X]|-|-|[Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity](https://aclanthology.org/2020.acl-main.509.pdf)|ACL20|
 |4|[X]|-|-|[Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge](https://aclanthology.org/2020.acl-main.291.pdf)|ACL20|
@@ -23,7 +23,7 @@
 |7|[SCN]|立场并不是互相独立的，需要单独学习每个立场，考虑立场之间的相关性|SemEval taskA|[Stance Detection with Stance-Wise Convolution Network](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Stance%20Detection%20with%20Stance-Wise%20Convolution%20Network.pdf)|NLPCC20|
 |8|[PNEM]|使用densely connected Bi-LSTM和 nested LSTMs architectures和注意力机制|SemEval taskA,Multi-target|[Tweet Stance Detection Using an Attention based Neural Ensemble Model](https://aclanthology.org/N19-1185.pdf)|NAACL19|
 |7|[stancy]|bert,加入cos约束|Perspectrum dataset|[STANCY: Stance Classification Based on Consistency Cues](https://aclanthology.org/D19-1675.pdf)|EMNLP19|
-|8|[MTransSAN]|多任务，Sentiment Analysis,QA,Textual Entailment,Paraphrase Detection|FNC-1|[Neural Multi-Task Learning for Stance Prediction](https://aclanthology.org/D19-6603.pdf)|EMNLP19|
+|8|[MTransSAN]|多任务，Sentiment Analysis,QA,Textual Entailment,Paraphrase Detection。基本思想：在四个任务上用任务语料进行预训练，再用FNC-1语料进行fine-tuning|FNC-1|[Neural Multi-Task Learning for Stance Prediction](https://aclanthology.org/D19-6603.pdf)|EMNLP19|
 |9|[X]|-|BBC,ETC(tweet),MFTC(tweet)|[Incorporating Label Dependencies in Multilabel Stance Detection](https://aclanthology.org/D19-1665.pdf)|EMNLP19|
 |10|[X]|多任务(待看)|SemEval taskA|[Multi-Task Stance Detection with Sentiment and Stance Lexicons](https://aclanthology.org/D19-1657.pdf)|EMNLP19|
 |11|[CLMN]|跨语言|FNC-1|[Contrastive Language Adaptation for Cross-Lingual Stance Detection](https://aclanthology.org/D19-1452.pdf)|EMNLP19|
