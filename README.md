@@ -59,6 +59,7 @@
 
 ## Cross-Lingual
 1. **Contrastive Language Adaptation for Cross-Lingual Stance Detection** *Mitra Mohtarami,James Glass,Preslav Nakov*[[pdf]](https://aclanthology.org/D19-1452.pdf)
+2. **Cross-Target Stance Classification with Self-Attention Networks** ** [[pdf]](https://aclanthology.org/P18-2123.pdf)
 
 ## Reference
 **[summarization.bib]**(https://github.com/zmsjf/StanceDetection-Papers/blob/main/summrization.bib)
