@@ -1,6 +1,4 @@
 # StanceDetection-Papers
-不同数据集上的工作
-跨target工作，纯立场检测，引入数据
 
 ## Literature Review
 **Stance Detection: A Survey** *DILEK KÜÇÜK,FAZLI CAN*`ACM19`[[pdf]](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Stance%20Detection%20A%20Survey.pdf)
@@ -60,6 +58,11 @@
 ## Cross-Lingual
 1. **Contrastive Language Adaptation for Cross-Lingual Stance Detection** *Mitra Mohtarami,James Glass,Preslav Nakov*[[pdf]](https://aclanthology.org/D19-1452.pdf)
 2. **Cross-Target Stance Classification with Self-Attention Networks** ** [[pdf]](https://aclanthology.org/P18-2123.pdf)
+
+## Commonsense Konwledge
+1. **Commonsense Knowledge Enhanced Memory Network for Stance Classification** *Jiachen Du,Lin Gui,Ruifeng Xu,Yunqing Xia,Xuan Wang* [[pdf]](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Commonsense%20Knowledge%20Enhanced%20Memory%20Network%20for%20Stance%20Classification.pdf)
+2. **Stance Detection Attending External Knowledge from Wikipedia** *Kazuaki Hanawa,Akira Sasaki,Naoaki Okazaki,Kentaro Inui* [[pdf]](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_499/_pdf/-char/en)
+
 
 ## Reference
 **[summarization.bib]**(https://github.com/zmsjf/StanceDetection-Papers/blob/main/summrization.bib)
