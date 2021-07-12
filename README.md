@@ -47,7 +47,7 @@
 |26|[X]|-|-|[Weakly Supervised Tweet Stance Classification by Relational Bootstrapping](https://aclanthology.org/D16-1105/)|EMNLP2016|
 |27|[X]|-|-|[Modeling Stance in Student Essays](https://aclanthology.org/P16-1205.pdf)|ACL16|
 |28|[X]|-|-|[Hawkes Processes for Continuous Time Sequence Classification: an Application to Rumour Stance Classification in Twitter](https://aclanthology.org/P16-2064.pdf)|ACL16|
-|29|[X]|-|SemEval taskA&B|[A Joint Sentiment-Target-Stance Model for Stance Classification in Tweets](https://aclanthology.org/C16-1250.pdf)|COLING16|
+|29|[STS]|不是深度学习方法，概率|SemEval taskA&B|[A Joint Sentiment-Target-Stance Model for Stance Classification in Tweets](https://aclanthology.org/C16-1250.pdf)|COLING16|
 |30|[X]|-|PHEME rumour|[Stance Classification in Rumours as a Sequential Task Exploiting the Tree Structure of Social Media Conversations](https://aclanthology.org/C16-1230.pdf)|COLING16|
 |31|[UTCNN]|-|FBFans(中文),CreateDebate|[UTCNN: a Deep Learning Model of Stance Classification on Social Media Text](https://aclanthology.org/C16-1154.pdf)|COLING16|
 |39|[pkudblab]|SemEval 2016 taskA第二名，taskB第一名。利用CNN和投票策略。对五个target单独训练五个模型|SemEval taskA&B|[pkudblab at SemEval-2016 Task 6 : A Specific Convolutional Neural Network System for Effective Stance Detection](https://aclanthology.org/S16-1062.pdf)|SemEval16|
