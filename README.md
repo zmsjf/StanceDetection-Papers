@@ -32,6 +32,7 @@
 |18|[X]|-|-|[Recognising Agreement and Disagreement between Stances with ReasonComparing Networks](https://aclanthology.org/P19-1460.pdf)|ACL19|
 |19|[AEKFW]|在立场检测模型中加入Wikipedia信息，设定关系为pro，sup，proby，supby|从twitter，wikipedia构建数据集|[Stance Detection Attending External Knowledge from Wikipedia](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_499/_pdf/-char/en)|IPSJ19|
 |20|[RCA]|QA类型的立场检测|自己从Baidu Knows，Sogou Wenwen和Mingyi构建数据集|[Exploring Answer Stance Detection with Recurrent Conditional Attention](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Exploring%20Answer%20Stance%20Detection%20with%20Recurrent%20Conditional%20Attention.pdf)|AAAI19|
+|21|[X]|-|-|[Modeling Transferable Topics for Cross-Target Stance Detection]()|SIGIR19|
 |21|[AE-RNN]|在GRU基础上加入tweet用户信息。引入作者的知识改善推文立场分类，由于作者信息嵌入通常不适用于带标签的，所以提出半监督式预训练方法来预测用户嵌入|SemEval taskA，Gun（论文自己构建）|[Using Author Embeddings to Improve Tweet Stance Classification](https://aclanthology.org/W18-6124/)|EMNLP18|
 |22|[X]|-|FNC-1|[Stance Detection in Fake News: A Combined Feature Representation](https://aclanthology.org/W18-5510.pdf)|EMNLP18|
 |23|[X]|-|FNC-1|[Towards Automatic Fake News Detection: Cross-Level Stance Detection in News Articles](https://aclanthology.org/W18-5507.pdf)|EMNLP18|
@@ -55,14 +56,15 @@
 ## Cross-Target Stance Detection
 1. **Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge** *Bowen Zhang, Min Yang, Xutao Li∗, Yunming Ye∗, Xiaofei Xu, Kuai Dai*`ACL20`[[pdf]](https://aclanthology.org/2020.acl-main.291.pdf)
 2. **Cross-Target Stance Classification with Self-Attention Networks** *Chang Xu,Cecile Paris,Surya Nepal,Ross Sparks* `ACL18` [[pdf]](https://aclanthology.org/P18-2123.pdf)
+3. **Modeling Transferable Topics for Cross-Target Stance Detection** ** `SIGIR19` [[pdf]]()
 
 ## Cross-Lingual
-1. **Contrastive Language Adaptation for Cross-Lingual Stance Detection** *Mitra Mohtarami,James Glass,Preslav Nakov*[[pdf]](https://aclanthology.org/D19-1452.pdf)
+1. **Contrastive Language Adaptation for Cross-Lingual Stance Detection** *Mitra Mohtarami,James Glass,Preslav Nakov* `EMNLP19` [[pdf]](https://aclanthology.org/D19-1452.pdf)
 
 
 ## Commonsense Konwledge
-1. **Commonsense Knowledge Enhanced Memory Network for Stance Classification** *Jiachen Du,Lin Gui,Ruifeng Xu,Yunqing Xia,Xuan Wang* [[pdf]](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Commonsense%20Knowledge%20Enhanced%20Memory%20Network%20for%20Stance%20Classification.pdf)
-2. **Stance Detection Attending External Knowledge from Wikipedia** *Kazuaki Hanawa,Akira Sasaki,Naoaki Okazaki,Kentaro Inui* [[pdf]](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_499/_pdf/-char/en)
+1. **Commonsense Knowledge Enhanced Memory Network for Stance Classification** *Jiachen Du,Lin Gui,Ruifeng Xu,Yunqing Xia,Xuan Wang* `IEEE20`[[pdf]](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Commonsense%20Knowledge%20Enhanced%20Memory%20Network%20for%20Stance%20Classification.pdf)
+2. **Stance Detection Attending External Knowledge from Wikipedia** *Kazuaki Hanawa,Akira Sasaki,Naoaki Okazaki,Kentaro Inui* `IPSJ19`[[pdf]](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_499/_pdf/-char/en)
 
 
 ## Reference
