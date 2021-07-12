@@ -56,7 +56,7 @@
 ## Cross-Target Stance Detection
 1. **Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge** *Bowen Zhang, Min Yang, Xutao Li, Yunming Ye, Xiaofei Xu, Kuai Dai*`ACL20`[[pdf]](https://aclanthology.org/2020.acl-main.291.pdf)
 2. **Cross-Target Stance Classification with Self-Attention Networks** *Chang Xu,Cecile Paris,Surya Nepal,Ross Sparks* `ACL18` [[pdf]](https://aclanthology.org/P18-2123.pdf)
-3. **Modeling Transferable Topics for Cross-Target Stance Detection** ** `SIGIR19` [[pdf]]()
+3. **Modeling Transferable Topics for Cross-Target Stance Detection** *Penghui Wei,Wenji Mao* `SIGIR19` [[pdf]](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Modeling%20Transferable%20Topics%20for%20Cross-Target%20Stance%20Detection.pdf)
 
 ## Cross-Lingual
 1. **Contrastive Language Adaptation for Cross-Lingual Stance Detection** *Mitra Mohtarami,James Glass,Preslav Nakov* `EMNLP19` [[pdf]](https://aclanthology.org/D19-1452.pdf)
