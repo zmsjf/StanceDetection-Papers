@@ -2,10 +2,10 @@
 不同数据集上的工作
 跨target工作，纯立场检测，引入数据
 
-## Reference
-**[summarization.bib]**(https://github.com/zmsjf/StanceDetection-Papers/blob/main/summrization.bib)
+## Literature Review
+**Stance Detection: A Survey** *DILEK KÜÇÜK,FAZLI CAN*`ACM19`[pdf](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Stance%20Detection%20A%20Survey.pdf)
 
-## Benchmark
+## Dataset
 1. **SemEval-2016 Task 6: Detecting Stance in Tweets** *Saif M. Mohammad,Svetlana Kiritchenko,Parinaz Sobhani,Xiaodan Zhu,Colin Cherry* [[pdf]](https://aclanthology.org/S16-1003.pdf)  
 2. **Overview of NLPCC Shared Task 4: Stance Detection in Chinese Microblogs**![](https://img.shields.io/badge/-Chinese-orange)*Ruifeng Xu,Jiachen Du,Lin Gui*[[pdf]](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/NLPCC2016OverviewofStnaceDetection%20(2).pdf)
 3. **FNC-1**(https://github.com/FakeNewsChallenge/fnc-1)
@@ -55,7 +55,8 @@
 
 
 
-
+## Reference
+**[summarization.bib]**(https://github.com/zmsjf/StanceDetection-Papers/blob/main/summrization.bib)
 
 
 
