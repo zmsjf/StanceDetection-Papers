@@ -33,25 +33,25 @@
 |19|[AEKFW]|在立场检测模型中加入Wikipedia信息，设定关系为pro，sup，proby，supby|从twitter，wikipedia构建数据集|[Stance Detection Attending External Knowledge from Wikipedia](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_499/_pdf/-char/en)|IPSJ19|
 |20|[RCA]|QA类型的立场检测|自己从Baidu Knows，Sogou Wenwen和Mingyi构建数据集|[Exploring Answer Stance Detection with Recurrent Conditional Attention](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/Exploring%20Answer%20Stance%20Detection%20with%20Recurrent%20Conditional%20Attention.pdf)|AAAI19|
 |21|[X]|-|-|[Modeling Transferable Topics for Cross-Target Stance Detection]()|SIGIR19|
-|21|[AE-RNN]|在GRU基础上加入tweet用户信息。引入作者的知识改善推文立场分类，由于作者信息嵌入通常不适用于带标签的，所以提出半监督式预训练方法来预测用户嵌入|SemEval taskA，Gun（论文自己构建）|[Using Author Embeddings to Improve Tweet Stance Classification](https://aclanthology.org/W18-6124/)|EMNLP18|
-|22|[X]|-|FNC-1|[Stance Detection in Fake News: A Combined Feature Representation](https://aclanthology.org/W18-5510.pdf)|EMNLP18|
-|23|[X]|-|FNC-1|[Towards Automatic Fake News Detection: Cross-Level Stance Detection in News Articles](https://aclanthology.org/W18-5507.pdf)|EMNLP18|
-|24|[CrossNet]|跨target|SemEval2016 taskA|[Cross-Target Stance Classification with Self-Attention Networks](https://aclanthology.org/P18-2123.pdf)|ACL18|
-|25|[X]|-|-|[A Retrospective Analysis of the Fake News Challenge Stance-Detection Task](https://aclanthology.org/C18-1158.pdf)|COLING18|
-|26|[X]|-|-|[Structured Representation Learning for Online Debate Stance Prediction](https://aclanthology.org/C18-1316.pdf)|COLING18|
-|27|[X]|-|《Other topics you may also agree or disagree: Modeling inter-topic preferences using tweets and matrix factorization》|[Predicting Stances from Social Media Posts using Factorization Machines](https://aclanthology.org/C18-1286.pdf)|COLING18|
-|28|[HAN]|引入Sentiment，Dependency，Argument，用注意力机制共同做立场检测|SemEval16 taskA,H&N14|[Stance Detection with Hierarchical Attention Network](https://aclanthology.org/C18-1203.pdf)|COLING18|
-|29|[X]|-|-|[ConStance: Modeling Annotation Contexts to Improve Stance Classification](https://aclanthology.org/D17-1116/)|EMNLP17|
-|30|[TAN]|在模型层面注意到target|SemEval16 taskA,NLPCC16 taskA|[Stance Classification with Target-Specific Neural Attention Networks](https://www.ijcai.org/proceedings/2017/0557.pdf)|IJCAI17|
-|31|[BiCond]| 经典 |SemEval taskB|[Stance Detection with Bidirectional Conditional Encoding](https://aclanthology.org/D16-1084/)|EMNLP16|
-|32|[X]|-|SemEval taskB|[Weakly Supervised Tweet Stance Classification by Relational Bootstrapping](https://aclanthology.org/D16-1105/)|EMNLP16|
-|33|[X]|-|-|[Modeling Stance in Student Essays](https://aclanthology.org/P16-1205.pdf)|ACL16|
-|34|[X]|-|-|[Hawkes Processes for Continuous Time Sequence Classification: an Application to Rumour Stance Classification in Twitter](https://aclanthology.org/P16-2064.pdf)|ACL16|
-|35|[STS]|不是深度学习方法，概率|SemEval taskA&B|[A Joint Sentiment-Target-Stance Model for Stance Classification in Tweets](https://aclanthology.org/C16-1250.pdf)|COLING16|
-|36|[X]|-|PHEME rumour|[Stance Classification in Rumours as a Sequential Task Exploiting the Tree Structure of Social Media Conversations](https://aclanthology.org/C16-1230.pdf)|COLING16|
-|37|[UTCNN]|-|FBFans(中文),CreateDebate|[UTCNN: a Deep Learning Model of Stance Classification on Social Media Text](https://aclanthology.org/C16-1154.pdf)|COLING16|
-|38|[]|-|-|[Stance Classification by Recognizing Related Events about Targets](https://ieeexplore.ieee.org/document/7817117?signout=success)|IEEE16|
-|39|[pkudblab]|SemEval 2016 taskA第二名，taskB第一名。利用CNN和投票策略。对五个target单独训练五个模型|SemEval taskA&B|[pkudblab at SemEval-2016 Task 6 : A Specific Convolutional Neural Network System for Effective Stance Detection](https://aclanthology.org/S16-1062.pdf)|SemEval16|
+|22|[AE-RNN]|在GRU基础上加入tweet用户信息。引入作者的知识改善推文立场分类，由于作者信息嵌入通常不适用于带标签的，所以提出半监督式预训练方法来预测用户嵌入|SemEval taskA，Gun（论文自己构建）|[Using Author Embeddings to Improve Tweet Stance Classification](https://aclanthology.org/W18-6124/)|EMNLP18|
+|23|[X]|-|FNC-1|[Stance Detection in Fake News: A Combined Feature Representation](https://aclanthology.org/W18-5510.pdf)|EMNLP18|
+|24|[X]|-|FNC-1|[Towards Automatic Fake News Detection: Cross-Level Stance Detection in News Articles](https://aclanthology.org/W18-5507.pdf)|EMNLP18|
+|25|[CrossNet]|跨target|SemEval2016 taskA|[Cross-Target Stance Classification with Self-Attention Networks](https://aclanthology.org/P18-2123.pdf)|ACL18|
+|26|[X]|-|-|[A Retrospective Analysis of the Fake News Challenge Stance-Detection Task](https://aclanthology.org/C18-1158.pdf)|COLING18|
+|27|[X]|-|-|[Structured Representation Learning for Online Debate Stance Prediction](https://aclanthology.org/C18-1316.pdf)|COLING18|
+|28|[X]|-|《Other topics you may also agree or disagree: Modeling inter-topic preferences using tweets and matrix factorization》|[Predicting Stances from Social Media Posts using Factorization Machines](https://aclanthology.org/C18-1286.pdf)|COLING18|
+|29|[HAN]|引入Sentiment，Dependency，Argument，用注意力机制共同做立场检测|SemEval16 taskA,H&N14|[Stance Detection with Hierarchical Attention Network](https://aclanthology.org/C18-1203.pdf)|COLING18|
+|30|[X]|-|-|[ConStance: Modeling Annotation Contexts to Improve Stance Classification](https://aclanthology.org/D17-1116/)|EMNLP17|
+|31|[TAN]|在模型层面注意到target|SemEval16 taskA,NLPCC16 taskA|[Stance Classification with Target-Specific Neural Attention Networks](https://www.ijcai.org/proceedings/2017/0557.pdf)|IJCAI17|
+|32|[BiCond]| 经典 |SemEval taskB|[Stance Detection with Bidirectional Conditional Encoding](https://aclanthology.org/D16-1084/)|EMNLP16|
+|33|[X]|-|SemEval taskB|[Weakly Supervised Tweet Stance Classification by Relational Bootstrapping](https://aclanthology.org/D16-1105/)|EMNLP16|
+|34|[X]|-|-|[Modeling Stance in Student Essays](https://aclanthology.org/P16-1205.pdf)|ACL16|
+|35|[X]|-|-|[Hawkes Processes for Continuous Time Sequence Classification: an Application to Rumour Stance Classification in Twitter](https://aclanthology.org/P16-2064.pdf)|ACL16|
+|36|[STS]|不是深度学习方法，概率|SemEval taskA&B|[A Joint Sentiment-Target-Stance Model for Stance Classification in Tweets](https://aclanthology.org/C16-1250.pdf)|COLING16|
+|37|[X]|-|PHEME rumour|[Stance Classification in Rumours as a Sequential Task Exploiting the Tree Structure of Social Media Conversations](https://aclanthology.org/C16-1230.pdf)|COLING16|
+|38|[UTCNN]|-|FBFans(中文),CreateDebate|[UTCNN: a Deep Learning Model of Stance Classification on Social Media Text](https://aclanthology.org/C16-1154.pdf)|COLING16|
+|39|[]|-|-|[Stance Classification by Recognizing Related Events about Targets](https://ieeexplore.ieee.org/document/7817117?signout=success)|IEEE16|
+|40|[pkudblab]|SemEval 2016 taskA第二名，taskB第一名。利用CNN和投票策略。对五个target单独训练五个模型|SemEval taskA&B|[pkudblab at SemEval-2016 Task 6 : A Specific Convolutional Neural Network System for Effective Stance Detection](https://aclanthology.org/S16-1062.pdf)|SemEval16|
 
 ## Cross-Target Stance Detection
 1. **Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge** *Bowen Zhang, Min Yang, Xutao Li, Yunming Ye, Xiaofei Xu, Kuai Dai*`ACL20`[[pdf]](https://aclanthology.org/2020.acl-main.291.pdf)
