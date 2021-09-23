@@ -5,9 +5,10 @@
 
 ## Dataset
 1. **SemEval-2016 Task 6: Detecting Stance in Tweets** *Saif M. Mohammad,Svetlana Kiritchenko,Parinaz Sobhani,Xiaodan Zhu,Colin Cherry* [[pdf]](https://aclanthology.org/S16-1003.pdf)  
-2. **Overview of NLPCC Shared Task 4: Stance Detection in Chinese Microblogs**![](https://img.shields.io/badge/-Chinese-orange)*Ruifeng Xu,Jiachen Du,Lin Gui*[[pdf]](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/NLPCC2016OverviewofStnaceDetection%20(2).pdf)
-3. **FNC-1**(https://github.com/FakeNewsChallenge/fnc-1)
-4. **RumourEval**(https://alt.qcri.org/semeval2017/task8/)
+2. **A Dataset for Multi-Target Stance Detection**(pair-target) [pdf](https://aclanthology.org/E17-2088.pdf)
+3. **Overview of NLPCC Shared Task 4: Stance Detection in Chinese Microblogs**![](https://img.shields.io/badge/-Chinese-orange)*Ruifeng Xu,Jiachen Du,Lin Gui*[[pdf]](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/NLPCC2016OverviewofStnaceDetection%20(2).pdf)
+4. **FNC-1**(https://github.com/FakeNewsChallenge/fnc-1)
+5. **RumourEval**(https://alt.qcri.org/semeval2017/task8/)
 
 ## Stance Detection work
 |ID|Name|Description|Dataset|Paper|Conference|
