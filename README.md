@@ -14,18 +14,18 @@
 ## Stance Detection work
 |ID|Name|Description|Dataset|Paper|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|[X]|放出一个twitter上的新冠数据集|-|[Stance Detection in COVID-19 Tweets]()|ACL21|
+|1|数据集|放出一个twitter上的新冠数据集|-|[Stance Detection in COVID-19 Tweets]()|ACL21|
 |2|[X]|数据增强|-|[Target-Aware Data Augmentation for Stance Detection]()|NAACL21|
-|3|数据集｜数据集，减少立场-情感之间潜在的相关性。bias|[tWT–WT: A Dataset to Assert the Role of Target Entities for Detecting Stance of Tweets]()|NAACL21|
-|4|[KEMLM]|所在数据集：2020数据集（拜登，川普），方法：让MLM任务mask重要的词，重要的词用weighted log-odds-ratio technique计算方式来选出对不同立场重要的词，用这种方式，注入知识|[Knowledge Enhanced Masked Language Model for Stance Detection]()|NAACL21|
-|5|[ALM]|跨领域，对抗学习；数据集：VAST|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|NAACL21|
-|6|[X]|增加对两个target的立场是否相同的辅任务；数据集：VAST|[A Multi-Task Learning Framework for Multi-Target Stance Detection]()|ACL Findings 21|
-|7|[CKM]|跨领域，应用conceptNet，对话题和文本分开建模；数据集：VAST|[Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph]()|ACL Findings 21|
-|8|[X]|跨领域，使用混合专家和领域适应方法。|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|EMNLP21|
-|9|[X]|在stancy模型基础上，加入unstancy，进行训练；|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|EMNLP21|
-|10|[X]|-|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|EMNLP21|
-|11|[X]|-|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|EMNLP21|
-|12|[X]|改造MLM任务，实现立场检测；数据集：SemEval|[MeLT: Message-Level Transformer with Masked Document Representations as Pre-Training for Stance Detection]()|EMNLP21|
+|3|数据集｜数据集，减少立场-情感之间潜在的相关性。bias|-|[tWT–WT: A Dataset to Assert the Role of Target Entities for Detecting Stance of Tweets]()|NAACL21|
+|4|[KEMLM]|让MLM任务mask重要的词，重要的词用weighted log-odds-ratio technique计算方式来选出对不同立场重要的词，用这种方式，注入知识|所在数据集：2020数据集（拜登，川普）|[Knowledge Enhanced Masked Language Model for Stance Detection]()|NAACL21|
+|5|[ALM]|跨领域，对抗学习|数据集：VAST|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|NAACL21|
+|6|[X]|增加对两个target的立场是否相同的辅任务|数据集：VAST|[A Multi-Task Learning Framework for Multi-Target Stance Detection]()|ACL Findings 21|
+|7|[CKM]|跨领域，应用conceptNet，对话题和文本分开建模|数据集：VAST|[Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph]()|ACL Findings 21|
+|8|[X]|跨领域，使用混合专家和领域适应方法。|-|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|EMNLP21|
+|9|[X]|在stancy模型基础上，加入unstancy，进行训练；|-|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|EMNLP21|
+|10|[X]|-|-|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|EMNLP21|
+|11|[X]|-|-|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|EMNLP21|
+|12|[X]|改造MLM任务，实现立场检测|数据集：SemEval|[MeLT: Message-Level Transformer with Masked Document Representations as Pre-Training for Stance Detection]()|EMNLP21|
 |1|[s/e-GRU]|引入sentiment、emotion信息。bert拿到结果之后，不直接进行分类，又利用GRU和max-pool和avg-pool进行表示|从procon.org整理数据。|[Stance Prediction for Contemporary Issues: Data and Experiments](https://aclanthology.org/2020.socialnlp-1.5.pdf)|ACL20|
 |2|[X]|-|-|[Stance Prediction and Claim Verification: An Arabic Perspective](https://aclanthology.org/2020.fever-1.2.pdf)|ACL20|
 |3|[X]|-|-|[Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity](https://aclanthology.org/2020.acl-main.509.pdf)|ACL20|
