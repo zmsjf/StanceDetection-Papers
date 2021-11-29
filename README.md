@@ -9,6 +9,7 @@
 3. **Overview of NLPCC Shared Task 4: Stance Detection in Chinese Microblogs**![](https://img.shields.io/badge/-Chinese-orange)*Ruifeng Xu,Jiachen Du,Lin Gui*[[pdf]](https://github.com/zmsjf/StanceDetection-Papers/blob/main/slides/paper-slides/NLPCC2016OverviewofStnaceDetection%20(2).pdf)
 4. **FNC-1**(https://github.com/FakeNewsChallenge/fnc-1)
 5. **RumourEval**(https://alt.qcri.org/semeval2017/task8/)
+6. **VAST(2020)** **Zero-Shot Stance Detection: A Dataset and Model using Generalized Topic Representations**[[pdf]](https://arxiv.org/pdf/2010.03640.pdf)
 
 ## Stance Detection work
 |ID|Name|Description|Dataset|Paper|Conference|
