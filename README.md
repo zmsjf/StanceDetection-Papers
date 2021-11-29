@@ -14,8 +14,8 @@
 ## Stance Detection work
 |ID|Name|Description|Dataset|Paper|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|数据集|放出一个twitter上的新冠数据集|[Stance Detection in COVID-19 Tweets]()|ACL21|
-|2|[X]|数据增强|[Target-Aware Data Augmentation for Stance Detection]()|NAACL21|
+|1|[X]|放出一个twitter上的新冠数据集|-|[Stance Detection in COVID-19 Tweets]()|ACL21|
+|2|[X]|数据增强|-|[Target-Aware Data Augmentation for Stance Detection]()|NAACL21|
 |3|数据集｜数据集，减少立场-情感之间潜在的相关性。bias|[tWT–WT: A Dataset to Assert the Role of Target Entities for Detecting Stance of Tweets]()|NAACL21|
 |4|[KEMLM]|所在数据集：2020数据集（拜登，川普），方法：让MLM任务mask重要的词，重要的词用weighted log-odds-ratio technique计算方式来选出对不同立场重要的词，用这种方式，注入知识|[Knowledge Enhanced Masked Language Model for Stance Detection]()|NAACL21|
 |5|[ALM]|跨领域，对抗学习；数据集：VAST|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|NAACL21|
