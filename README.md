@@ -18,7 +18,7 @@
 |2|[X]|数据增强|-|[Target-Aware Data Augmentation for Stance Detection]()|NAACL21|
 |3|数据集|数据集，减少立场-情感之间潜在的相关性。bias|-|[tWT–WT: A Dataset to Assert the Role of Target Entities for Detecting Stance of Tweets]()|NAACL21|
 |4|[KEMLM]|让MLM任务mask重要的词，重要的词用weighted log-odds-ratio technique计算方式来选出对不同立场重要的词，用这种方式，注入知识|所在数据集：2020数据集（拜登，川普）|[Knowledge Enhanced Masked Language Model for Stance Detection]()|NAACL21|
-|5|[ALM]|跨领域，对抗学习|数据集：VAST|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|NAACL21|
+|5|[ALM]|跨领域，对抗学习|数据集：SemEval 2016|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|NAACL21|
 |6|[X]|增加对两个target的立场是否相同的辅任务|数据集：VAST|[A Multi-Task Learning Framework for Multi-Target Stance Detection]()|ACL Findings 21|
 |7|[CKM]|跨领域，应用conceptNet，对话题和文本分开建模|数据集：VAST|[Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph]()|ACL Findings 21|
 |8|[X]|跨领域，使用混合专家和领域适应方法。|-|[Adversarial Learning for Zero-Shot Stance Detection on Social Media]()|EMNLP21|
